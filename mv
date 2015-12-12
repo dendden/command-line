@@ -1,0 +1,2 @@
+mv [filename] [destination] (or [new filename])
+This shell command allows to move files or directories or rename them.
